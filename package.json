@@ -23,13 +23,5 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Salma-tharwat/restaurant-website-using-bootstrap-frontend.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Salma-tharwat/restaurant-website-using-bootstrap-frontend/issues"
-  },
-  "homepage": "https://github.com/Salma-tharwat/restaurant-website-using-bootstrap-frontend#readme"
+  }
 }
